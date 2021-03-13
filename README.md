@@ -7,6 +7,6 @@ Project contains two notebooks:
       1. Damage Vs Undamage Classification.
       2. Detection of damage along with its severity.
       
-
+severity Identification                      Damage Detection(most relevant case identification)
 ![Screenshot1](identify_damage_severity.png) ![Screenshot](CarDamage.png) 
 
