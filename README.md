@@ -9,5 +9,4 @@ I have trained models and custom dataset using Pytorch.
 Above code is just an example on one image.
 
 Thank you!
-![Screenshot]("CarDamage.png") 
-![Screenshot](identify_damage_severity.png) 
+![1]("CarDamage.png")  ![2](identify_damage_severity.png) 
