@@ -9,5 +9,5 @@ I have trained models and custom dataset using Pytorch.
 Above code is just an example on one image.
 
 Thank you!
-![Screenshot](Screenshot 2020-12-17 at 12.50.31 AM.png) 
+![Screenshot]("CarDamage.png") 
 ![Screenshot](identify_damage_severity.png) 
